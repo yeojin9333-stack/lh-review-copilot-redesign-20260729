@@ -1,0 +1,11 @@
+package: lh-review-copilot-team-share
+release: team-share-20260729-v10
+application: LH Review Copilot
+deployed-site-version: Sites version 11 · product v10
+deployed-runtime-commit: this packaged source state
+public-url: https://lh-review-copilot-20260727.geonnii.chatgpt.site
+local-rag-default: scenario-rag-grounded-v1
+
+이 팀 공유본은 Pan·Zoom Cutaway, 검토 의도 선행 흐름, 전체 근거 PDF,
+대안별 형상·영향 비교, 데이터 기반 기대효과 요약과 조직지식 저장 애니메이션이
+반영된 v10 릴리스입니다.
